@@ -1,0 +1,5 @@
+.nav-text {
+    background: linear-gradient(to right ,red,blue);
+    color:transparent;
+    -webkit-background-clip: text;
+}
